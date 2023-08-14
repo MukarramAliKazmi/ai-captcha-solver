@@ -2,7 +2,7 @@ https://github.com/MukarramAliKazmi/ai-captcha-solver/assets/86571249/1eb6d5bd-9
 
 # Google reCAPTCHA solver in python, using OpenAI Whisper API
 
-This is a Python script that uses Selenium and OpenAI Whisper API to solve Google reCAPTCHA.
+This is a Python program that uses Selenium and OpenAI Whisper API to solve Google reCAPTCHA.
 
 ## Prerequisites
 
@@ -33,8 +33,8 @@ You can install the packages using pip:
 
 ## Usage
 
-To run the script, simply execute:
+To run the program, simply execute:
 
 `python recaptcha_solver.py`
 
-The script will solve the reCAPTCHA challenge in the browser. You can modify the script to use it for other websites that have reCAPTCHA.
+The program will solve the reCAPTCHA challenge in the browser. You can modify the program to use it for other websites that have reCAPTCHA.
