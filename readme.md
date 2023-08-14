@@ -1,4 +1,6 @@
-# Google reCAPTCHA solver in python, using OpenAI Whisper API.
+https://github.com/MukarramAliKazmi/ai-captcha-solver/assets/86571249/1eb6d5bd-98f5-42fc-b057-d8961a122c19
+
+# Google reCAPTCHA solver in python, using OpenAI Whisper API
 
 This is a Python script that uses Selenium and OpenAI Whisper API to solve Google reCAPTCHA.
 
@@ -12,11 +14,15 @@ This is a Python script that uses Selenium and OpenAI Whisper API to solve Googl
 To create and activate a virtual environment for this project, you can use the following commands:
 
 Windows:
+
 `py -m venv myworld`
+
 `myworld\Scripts\activate.bat`
 
 Unix/MacOS:
+
 `python -m venv myworld`
+
 `source myworld/bin/activate`
 
 ## Installation
